@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Rohan/bin/github/SPSCQueue/main'
+relocations:     []
+...
